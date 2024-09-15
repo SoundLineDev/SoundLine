@@ -5,7 +5,7 @@
     Use the AI voice translator. Take decisions in minutes with our AI engine.
     <br>
 </h1>
-<a href="https://SoundLine.app/download">
+<a href="https://SoundLine.app">
     <img alt="SoundLine logo" src="https://i.imgur.com/chp62aD.png" style="width: 100%">
 </a>
 <br/>
