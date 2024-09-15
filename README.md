@@ -6,7 +6,7 @@
     <br>
 </h1>
 <a href="https://SoundLine.app/download">
-    <img alt="SoundLine logo" src="https://imgur.com/a/WXDOdzx" style="width: 100%">
+    <img alt="SoundLine logo" src="https://i.imgur.com/chp62aD.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
